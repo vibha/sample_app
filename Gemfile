@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.0.0'
-#ruby-gemset=mharti_railstutorial
+#ruby-gemset=mharti_tutorial
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.5'
